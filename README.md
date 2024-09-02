@@ -1,5 +1,5 @@
 # power-outage-data
 
-Data scraped from LG&E/KU's power outage map
+This project is a fork from another project. View their website below.
 
 For detailed information, check out this post: https://codeforkentuckiana.org/2019-12-18-power-utility-data/
