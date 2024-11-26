@@ -1,5 +1,20 @@
 [
   {
+    "id": "kvyaGvniyN-2024-11-25T21:27:24Z",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "Power problem is being assessed. A restoration estimate is in progress.",
+    "cause": "Pending crew assessment",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2024-11-25T21:27:24Z",
+    "latitude": 42.40758,
+    "longitude": -82.95676,
+    "source": "https://kubra.io/cluster-data/232/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302232.json"
+  },
+  {
     "id": "atnjG~zzxN-2024-11-26T00:22:52Z",
     "etr": "2024-11-27T00:20:00Z",
     "etrConfidence": null,
@@ -12,7 +27,7 @@
     "startTime": "2024-11-26T00:22:52Z",
     "latitude": 43.82545,
     "longitude": -82.88192,
-    "source": "https://kubra.io/cluster-data/032/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/0302230.json"
+    "source": "https://kubra.io/cluster-data/032/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302230.json"
   },
   {
     "id": "akrhGlm_zN-2024-11-25T22:05:30Z",
@@ -27,7 +42,7 @@
     "startTime": "2024-11-25T22:05:30Z",
     "latitude": 43.51681,
     "longitude": -83.06919,
-    "source": "https://kubra.io/cluster-data/032/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/0302230.json"
+    "source": "https://kubra.io/cluster-data/032/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302230.json"
   },
   {
     "id": "k`ubGnuw}N-2024-11-25T21:58:52Z",
@@ -42,7 +57,7 @@
     "startTime": "2024-11-25T21:58:52Z",
     "latitude": 42.54742,
     "longitude": -83.68488,
-    "source": "https://kubra.io/cluster-data/120/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/0302232021.json"
+    "source": "https://kubra.io/cluster-data/202/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/030223202.json"
   },
   {
     "id": "uofaGncm~N-2024-11-25T17:17:43.751Z",
@@ -57,7 +72,7 @@
     "startTime": "2024-11-25T17:17:43.751Z",
     "latitude": 42.30923,
     "longitude": -83.79464,
-    "source": "https://kubra.io/cluster-data/120/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/0302232021.json"
+    "source": "https://kubra.io/cluster-data/202/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/030223202.json"
   },
   {
     "id": "uz`aG|nuzN-2024-11-25T23:53:51Z",
@@ -67,12 +82,12 @@
     "comments": null,
     "cause": "Equipment problem",
     "numberOut": 1,
-    "custAffected": 28,
+    "custAffected": 29,
     "crewStatus": null,
     "startTime": "2024-11-25T23:53:51Z",
     "latitude": 42.28027,
     "longitude": -83.18207,
-    "source": "https://kubra.io/cluster-data/103/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/030223203301.json"
+    "source": "https://kubra.io/cluster-data/103/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/030223203301.json"
   },
   {
     "id": "qr`aG|wwzN-2024-11-25T22:07:21Z",
@@ -87,37 +102,7 @@
     "startTime": "2024-11-25T22:07:21Z",
     "latitude": 42.27897,
     "longitude": -83.19375,
-    "source": "https://kubra.io/cluster-data/103/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/030223203301.json"
-  },
-  {
-    "id": "kvyaGvniyN-2024-11-25T21:27:24Z",
-    "etr": "ETR-NULL",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "Power problem is being assessed. A restoration estimate is in progress.",
-    "cause": "Pending crew assessment",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2024-11-25T21:27:24Z",
-    "latitude": 42.40758,
-    "longitude": -82.95676,
-    "source": "https://kubra.io/cluster-data/021/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/0302232120.json"
-  },
-  {
-    "id": "gjcdGpx`{N-2024-11-26T06:13:13Z",
-    "etr": "2024-11-27T06:15:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": null,
-    "cause": "Pending crew assessment",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2024-11-26T06:13:13Z",
-    "latitude": 42.78452,
-    "longitude": -83.23993,
-    "source": "https://kubra.io/cluster-data/310/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/0302232013.json"
+    "source": "https://kubra.io/cluster-data/103/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/030223203301.json"
   },
   {
     "id": "}l~`Grhe}N-2024-11-25T21:12:05Z",
@@ -132,7 +117,7 @@
     "startTime": "2024-11-25T21:12:05Z",
     "latitude": 42.26783,
     "longitude": -83.59066,
-    "source": "https://kubra.io/cluster-data/232/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/0302232.json"
+    "source": "https://kubra.io/cluster-data/232/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302232.json"
   },
   {
     "id": "ecbaGd`a|N-2024-11-25T17:11:39Z",
@@ -147,52 +132,7 @@
     "startTime": "2024-11-25T17:11:39Z",
     "latitude": 42.28675,
     "longitude": -83.40499,
-    "source": "https://kubra.io/cluster-data/023/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/03022320.json"
-  },
-  {
-    "id": "a}{cGzov{N-2024-11-25T21:57:56Z",
-    "etr": "2024-11-26T21:55:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": null,
-    "cause": "Pending crew assessment",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2024-11-25T21:57:56Z",
-    "latitude": 42.74657,
-    "longitude": -83.35118,
-    "source": "https://kubra.io/cluster-data/102/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/030223201.json"
-  },
-  {
-    "id": "oenbGjyy{N-2024-11-26T08:42:03Z",
-    "etr": "ETR-NULL",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "Power problem is being assessed. A restoration estimate is in progress.",
-    "cause": "Pending crew assessment",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2024-11-26T08:42:03Z",
-    "latitude": 42.5124,
-    "longitude": -83.36806,
-    "source": "https://kubra.io/cluster-data/302/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/030223203.json"
-  },
-  {
-    "id": "me_bGxvr{N-2024-11-26T03:53:06Z",
-    "etr": "ETR-EXP",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": null,
-    "cause": "Private prop tree damaged equip",
-    "numberOut": 1,
-    "custAffected": 14,
-    "crewStatus": null,
-    "startTime": "2024-11-26T03:53:06Z",
-    "latitude": 42.43559,
-    "longitude": -83.33181,
-    "source": "https://kubra.io/cluster-data/030/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/0302232030.json"
+    "source": "https://kubra.io/cluster-data/023/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/03022320.json"
   },
   {
     "id": "khqbG|rnzN-2024-11-25T21:32:59Z",
@@ -207,7 +147,7 @@
     "startTime": "2024-11-25T21:32:59Z",
     "latitude": 42.52822,
     "longitude": -83.14687,
-    "source": "https://kubra.io/cluster-data/130/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/0302232031.json"
+    "source": "https://kubra.io/cluster-data/130/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302232031.json"
   },
   {
     "id": "kvpbGba~zN-2024-11-25T15:51Z",
@@ -222,7 +162,7 @@
     "startTime": "2024-11-25T15:51Z",
     "latitude": 42.52534,
     "longitude": -83.22594,
-    "source": "https://kubra.io/cluster-data/130/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/0302232031.json"
+    "source": "https://kubra.io/cluster-data/130/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302232031.json"
   },
   {
     "id": "elgbGhvd{N-2024-11-26T06:28:54Z",
@@ -237,7 +177,22 @@
     "startTime": "2024-11-26T06:28:54Z",
     "latitude": 42.47763,
     "longitude": -83.26005,
-    "source": "https://kubra.io/cluster-data/130/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/0302232031.json"
+    "source": "https://kubra.io/cluster-data/130/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302232031.json"
+  },
+  {
+    "id": "c{`bGdqpzN-2024-11-26T09:01:28Z",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "Power problem is being assessed. A restoration estimate is in progress.",
+    "cause": "Pending crew assessment",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2024-11-26T09:01:28Z",
+    "latitude": 42.44418,
+    "longitude": -83.15683,
+    "source": "https://kubra.io/cluster-data/130/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302232031.json"
   },
   {
     "id": "mohbGjnszN-2024-11-25T13:58:28Z",
@@ -252,7 +207,7 @@
     "startTime": "2024-11-25T13:58:28Z",
     "latitude": 42.48327,
     "longitude": -83.17174,
-    "source": "https://kubra.io/cluster-data/302/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/030223203.json"
+    "source": "https://kubra.io/cluster-data/130/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302232031.json"
   },
   {
     "id": "igvaGttvzN-2024-11-25T19:29:26Z",
@@ -267,7 +222,7 @@
     "startTime": "2024-11-25T19:29:26Z",
     "latitude": 42.38981,
     "longitude": -83.18811,
-    "source": "https://kubra.io/cluster-data/302/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/030223203.json"
+    "source": "https://kubra.io/cluster-data/130/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302232031.json"
   },
   {
     "id": "mgqaGfbgzN-2024-11-26T07:14:31Z",
@@ -282,7 +237,7 @@
     "startTime": "2024-11-26T07:14:31Z",
     "latitude": 42.36423,
     "longitude": -83.10836,
-    "source": "https://kubra.io/cluster-data/302/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/030223203.json"
+    "source": "https://kubra.io/cluster-data/302/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/030223203.json"
   },
   {
     "id": "qfxaGnx`zN-2024-11-25T16:10:33Z",
@@ -297,7 +252,7 @@
     "startTime": "2024-11-25T16:10:33Z",
     "latitude": 42.39993,
     "longitude": -83.07608,
-    "source": "https://kubra.io/cluster-data/130/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/0302232031.json"
+    "source": "https://kubra.io/cluster-data/130/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302232031.json"
   },
   {
     "id": "chabGnybzN-2024-11-25T02:07:02Z",
@@ -312,7 +267,7 @@
     "startTime": "2024-11-25T02:07:02Z",
     "latitude": 42.44626,
     "longitude": -83.08648,
-    "source": "https://kubra.io/cluster-data/321/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/0302232031123.json"
+    "source": "https://kubra.io/cluster-data/321/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302232031123.json"
   },
   {
     "id": "erbbG~fbzN-2024-11-25T21:55:33Z",
@@ -327,7 +282,7 @@
     "startTime": "2024-11-25T21:55:33Z",
     "latitude": 42.45299,
     "longitude": -83.08352,
-    "source": "https://kubra.io/cluster-data/321/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/0302232031123.json"
+    "source": "https://kubra.io/cluster-data/321/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302232031123.json"
   },
   {
     "id": "ss{aGb}k{N-2024-11-25T18:13:32Z",
@@ -342,7 +297,22 @@
     "startTime": "2024-11-25T18:13:32Z",
     "latitude": 42.41738,
     "longitude": -83.29698,
-    "source": "https://kubra.io/cluster-data/130/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/0302232031.json"
+    "source": "https://kubra.io/cluster-data/130/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302232031.json"
+  },
+  {
+    "id": "gjcdGpx`{N-2024-11-26T06:13:13Z",
+    "etr": "2024-11-27T06:15:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": null,
+    "cause": "Pending crew assessment",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2024-11-26T06:13:13Z",
+    "latitude": 42.78452,
+    "longitude": -83.23993,
+    "source": "https://kubra.io/cluster-data/102/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/030223201.json"
   },
   {
     "id": "mm{bGd_ozN-2024-11-26T04:29:17Z",
@@ -357,6 +327,66 @@
     "startTime": "2024-11-26T04:29:17Z",
     "latitude": 42.58023,
     "longitude": -83.14883,
-    "source": "https://kubra.io/cluster-data/310/227de1f9-4adc-4fc9-98cb-dc2b847c0549/f8e354a0-2d6a-4526-a73f-33aad1d5d50b/public/cluster-1/0302232013.json"
+    "source": "https://kubra.io/cluster-data/310/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302232013.json"
+  },
+  {
+    "id": "a}{cGzov{N-2024-11-25T21:57:56Z",
+    "etr": "2024-11-26T21:55:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": null,
+    "cause": "Pending crew assessment",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2024-11-25T21:57:56Z",
+    "latitude": 42.74657,
+    "longitude": -83.35118,
+    "source": "https://kubra.io/cluster-data/102/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/030223201.json"
+  },
+  {
+    "id": "a|vbGzot{N-2024-11-26T09:00:09Z",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "Power problem is being assessed. A restoration estimate is in progress.",
+    "cause": "Pending crew assessment",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2024-11-26T09:00:09Z",
+    "latitude": 42.55697,
+    "longitude": -83.34094,
+    "source": "https://kubra.io/cluster-data/210/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302232012.json"
+  },
+  {
+    "id": "oenbGjyy{N-2024-11-26T08:42:03Z",
+    "etr": "2024-11-27T08:45:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": null,
+    "cause": "Pending crew assessment",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2024-11-26T08:42:03Z",
+    "latitude": 42.5124,
+    "longitude": -83.36806,
+    "source": "https://kubra.io/cluster-data/030/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302232030.json"
+  },
+  {
+    "id": "me_bGxvr{N-2024-11-26T03:53:06Z",
+    "etr": "ETR-EXP",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": null,
+    "cause": "Private prop tree damaged equip",
+    "numberOut": 1,
+    "custAffected": 14,
+    "crewStatus": null,
+    "startTime": "2024-11-26T03:53:06Z",
+    "latitude": 42.43559,
+    "longitude": -83.33181,
+    "source": "https://kubra.io/cluster-data/030/227de1f9-4adc-4fc9-98cb-dc2b847c0549/385ea951-ccd2-477a-a384-4af29765a7b4/public/cluster-1/0302232030.json"
   }
 ]
