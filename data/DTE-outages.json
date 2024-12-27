@@ -12,7 +12,7 @@
     "startTime": "2024-12-27T02:26:30Z",
     "latitude": 42.2331,
     "longitude": -83.66166,
-    "source": "https://kubra.io/cluster-data/023/227de1f9-4adc-4fc9-98cb-dc2b847c0549/e4d4a406-2712-4dab-91f5-8da1800bbc91/public/cluster-1/03022320320.json"
+    "source": "https://kubra.io/cluster-data/023/227de1f9-4adc-4fc9-98cb-dc2b847c0549/c2dad025-094d-4070-8426-10d9f6b83853/public/cluster-1/03022320320.json"
   },
   {
     "id": "inx`Gbko}N-2024-12-26T23:30:08Z",
@@ -27,52 +27,7 @@
     "startTime": "2024-12-26T23:30:08Z",
     "latitude": 42.23733,
     "longitude": -83.64226,
-    "source": "https://kubra.io/cluster-data/023/227de1f9-4adc-4fc9-98cb-dc2b847c0549/e4d4a406-2712-4dab-91f5-8da1800bbc91/public/cluster-1/03022320320.json"
-  },
-  {
-    "id": "q~}aG`e{xN-2024-12-27T02:40:07Z",
-    "etr": "2024-12-28T02:40:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": null,
-    "cause": "Problem with customer equipment",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2024-12-27T02:40:07Z",
-    "latitude": 42.42937,
-    "longitude": -82.88353,
-    "source": "https://kubra.io/cluster-data/212/227de1f9-4adc-4fc9-98cb-dc2b847c0549/e4d4a406-2712-4dab-91f5-8da1800bbc91/public/cluster-1/030223212.json"
-  },
-  {
-    "id": "cgzaGzfhyN-2024-12-27T13:16:42Z",
-    "etr": "ETR-NULL",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "Power problem is being assessed. A restoration estimate is in progress.",
-    "cause": "Pending crew assessment",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2024-12-27T13:16:42Z",
-    "latitude": 42.41026,
-    "longitude": -82.95038,
-    "source": "https://kubra.io/cluster-data/212/227de1f9-4adc-4fc9-98cb-dc2b847c0549/e4d4a406-2712-4dab-91f5-8da1800bbc91/public/cluster-1/030223212.json"
-  },
-  {
-    "id": "qfnaG`umzN-2024-12-26T23:30:15Z",
-    "etr": "2024-12-27T23:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": null,
-    "cause": "Pending crew assessment",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2024-12-26T23:30:15Z",
-    "latitude": 42.34873,
-    "longitude": -83.14209,
-    "source": "https://kubra.io/cluster-data/023/227de1f9-4adc-4fc9-98cb-dc2b847c0549/e4d4a406-2712-4dab-91f5-8da1800bbc91/public/cluster-1/03022320.json"
+    "source": "https://kubra.io/cluster-data/023/227de1f9-4adc-4fc9-98cb-dc2b847c0549/c2dad025-094d-4070-8426-10d9f6b83853/public/cluster-1/03022320320.json"
   },
   {
     "id": "_zdhGdhn|N-2024-12-27T11:43:32Z",
@@ -87,6 +42,51 @@
     "startTime": "2024-12-27T11:43:32Z",
     "latitude": 43.44752,
     "longitude": -83.47283,
-    "source": "https://kubra.io/cluster-data/032/227de1f9-4adc-4fc9-98cb-dc2b847c0549/e4d4a406-2712-4dab-91f5-8da1800bbc91/public/cluster-1/0302230.json"
+    "source": "https://kubra.io/cluster-data/032/227de1f9-4adc-4fc9-98cb-dc2b847c0549/c2dad025-094d-4070-8426-10d9f6b83853/public/cluster-1/0302230.json"
+  },
+  {
+    "id": "gfxbGlls|N-2024-12-27T13:38:28Z",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "Power problem is being assessed. A restoration estimate is in progress.",
+    "cause": "Pending crew assessment",
+    "numberOut": 1,
+    "custAffected": 5,
+    "crewStatus": null,
+    "startTime": "2024-12-27T13:38:28Z",
+    "latitude": 42.56372,
+    "longitude": -83.49911,
+    "source": "https://kubra.io/cluster-data/232/227de1f9-4adc-4fc9-98cb-dc2b847c0549/c2dad025-094d-4070-8426-10d9f6b83853/public/cluster-1/0302232.json"
+  },
+  {
+    "id": "q~}aG`e{xN-2024-12-27T02:40:07Z",
+    "etr": "2024-12-28T02:40:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": null,
+    "cause": "Problem with customer equipment",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2024-12-27T02:40:07Z",
+    "latitude": 42.42937,
+    "longitude": -82.88353,
+    "source": "https://kubra.io/cluster-data/212/227de1f9-4adc-4fc9-98cb-dc2b847c0549/c2dad025-094d-4070-8426-10d9f6b83853/public/cluster-1/030223212.json"
+  },
+  {
+    "id": "cgzaGzfhyN-2024-12-27T13:16:42Z",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "Power problem is being assessed. A restoration estimate is in progress.",
+    "cause": "Pending crew assessment",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2024-12-27T13:16:42Z",
+    "latitude": 42.41026,
+    "longitude": -82.95038,
+    "source": "https://kubra.io/cluster-data/212/227de1f9-4adc-4fc9-98cb-dc2b847c0549/c2dad025-094d-4070-8426-10d9f6b83853/public/cluster-1/030223212.json"
   }
 ]
